@@ -1,0 +1,10 @@
+{
+  "name": "@e-dialog/v3",
+  "version": "1.0.0",
+  "main": "dist/e-dialog-v3.umd.js",
+  "dependencies": {},
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  }
+}
